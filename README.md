@@ -1,1 +1,1 @@
-# gustavo_sql2
+aula 2 sql (trigger,views,etc...)
